@@ -32,3 +32,8 @@ Show resource details:
 terraform show
 ```
 
+Destroy resource:
+
+```
+terraform destroy
+```
