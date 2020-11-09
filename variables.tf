@@ -5,7 +5,7 @@ variable "region" {
 
 variable "key_name" {
   description = "Private key name to use with instance"
-  default     = "qlik"
+  default     = "ias-tf"
 }
 
 variable "instance_type" {
